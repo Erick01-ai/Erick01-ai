@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é @Erick01-ai
 - 👀 Estou interessado em desenvolvimento de software.
-- 🌱 Atualmente estou aprendendo a programar em C avançado e busco futuramente aprender ciências de dados.
+- 🌱 Atualmente estou aprendendo a programar em C# avançado
 - 💞️ Procuro colaborar no desenvolvimento de software e análise de dados e na área de tecnologia.
 - 📫 Como chegar até mim **E-mail** : [erick087sena@gmail.com] **LinkedIn** : [https://www.linkedin.com/in/ericky-sena/]
 - ⚡ Curiosidade : Viciado em aprender e explorar novas tecnologias.
